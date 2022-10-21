@@ -2,6 +2,7 @@
 
 ### What does not work
 - Keybord backlight
+- Fn keys
 - NumberPad
 - HDMI
 ### Need to check
